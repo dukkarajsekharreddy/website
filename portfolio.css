@@ -1,0 +1,59 @@
+body{
+    background-color: gray;
+​
+}
+.heading{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.quote{
+    background-image: url('https://www.hindustantimes.com/ht-img/img/2023/11/16/550x309/PTI11-15-2023-000278B-0_1700137031904_1700137078317.jpg');
+    height: 400px;
+    max-width: 1200px;
+    margin-left: 70px;
+    margin-right: 50px;
+    background-repeat: no-repeat;
+    
+}
+.quote-heading{
+​
+    padding: 50px;
+    color: white;
+}
+.firstpage{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 15px;
+    margin-left: 80px;
+    margin-right: 50px;
+}
+.firstpage-content{
+    width: 300px;
+    text-align: center;
+    letter-spacing: 3px;
+    word-spacing: 4px;
+    font-size: x-large;
+    margin-top: 100px;
+    margin-left: 100px;
+   
+}
+​
+.secondpage-heading{
+    font-size: x-large;
+    text-align: center;
+}
+.secondpage{
+    display: flex;
+    flex-direction: row;
+    
+    justify-content: space-around;
+    
+​
+}
+.secondpage-content{
+    text-align: center;
+    font-size: x-large;
+    width: 100%;
+    word-spacing: 2px;
+}
